@@ -5,9 +5,9 @@
 Founded by Roover and Shell in 2021, Omega has transformed from a group of novice programmers to a professional brand of capable minds.
 
 # ❓ What do we do? ❓
-Omega started off as a team of two python coders, Roover and Shell, who coded tools for Discord.com. Our organization has expanded our knowledge, which now covers several languages (Rust, Java, Python, HTML, CSS, Javascript) and several topics. 
+Omega started off as a team of two python programmers, TheGigaDev and Shell, who made useful tools for the chat website Discord.com. Our organization has expanded our knowledge, which now covers several languages (Rust, Java, Python, HTML, CSS, Javascript) and several topics. 
 
-We have big plans for future projects, which will be better than anything we have produced in the past.
+We have big plans for future projects, which we believe will be better than anything we have produced in the past.
 
 # 📓 Notable projects: 📓
 - Selfcord : With 55 stars on Github, Selfcord was our most advertised project. It was a Discord API wrapper available on PIP.
@@ -23,11 +23,11 @@ These Omega members and affiliates played a significant role in the development 
 
 ## 1. Shell | https://github.com/Shell1010
 ![image](https://avatars.githubusercontent.com/u/72198971?v=4) <br>
-A founding father of Omega, and the man who started it all, Shell has significantly expanded his programming knowledge since he started the organization.
+A founding father of Omega, and the man who started it all, Shell has significantly expanded his topic knowledge since he started the organization.
 
-## 2. Roover | https://github.com/Thegigadev
+## 2. TheGigaDev | https://github.com/Thegigadev
 ![image](https://avatars.githubusercontent.com/u/97202512?v=4) <br>
-When he met Shell in 2021, Roover finally found someone intelligent enough to work with on ambitious projects. The duo of Shell and Roover started it all.
+TheGigaDev co-founded Omega with Shell after seeing the need for tools that could be used on Discord and beyond.
 
 ## 3. Cereal | https://github.com/milkycereal
 ![image](https://avatars.githubusercontent.com/u/73575448?v=4) <br>
